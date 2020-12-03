@@ -1,0 +1,14 @@
+.conta {
+  height: 500px;
+  width: 100%;
+  display: flex;
+flex-wrap: nowrap;
+} 
+
+.but{
+  width:20%;
+}
+.leaflet-container {
+    height: 450px;
+    width: 80%;
+  } 
